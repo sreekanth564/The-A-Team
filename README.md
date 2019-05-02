@@ -1,2 +1,2 @@
 # The-A-Team
-Practice on Devops Method Implementations 
+Practice on Devops Implementations 
